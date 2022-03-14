@@ -35,7 +35,7 @@ Head of AI - AI Inventor
 
 Name-Surname: **Emirhan BULUT**
 
-Contact (Email) : **emirhan.bulut@turkiyeyapayzeka.com**
+Contact (Email) : **emirhan@isap.solutions**
 
 LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
 
