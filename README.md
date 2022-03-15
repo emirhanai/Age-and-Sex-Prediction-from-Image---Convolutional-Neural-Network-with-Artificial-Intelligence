@@ -5,7 +5,7 @@ Kind regards,
 
 Emirhan BULUT
 
-Head of AI - AI Inventor
+Head of AI & AI Inventor
 
 ###**The coding language used:**
 
