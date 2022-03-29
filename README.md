@@ -25,7 +25,7 @@ Head of AI & AI Inventor
 
 `Pandas`
 
-`Scikit-learn (SKLEARN)`
+`Scikit-learn - (SKLEARN)`
 
 <img class="fit-picture"
      src="https://raw.githubusercontent.com/emirhanai/Age-and-Sex-Prediction-from-Image---Convolutional-Neural-Network-with-Artificial-Intelligence/main/Age%20and%20Sex%20Prediction%20from%20Image%20-%20Convolutional%20Neural%20Network%20with%20Artificial%20Intelligence.png"
